@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/sylwit/release-please/compare/v1.0.0...v1.1.0) (2024-08-07)
+
+
+### Features
+
+* Add feat2 ([5cb0996](https://github.com/sylwit/release-please/commit/5cb099696c2fdb42cd178fdabb733934ed762892))
+
 ## 1.0.0 (2024-08-07)
 
 
