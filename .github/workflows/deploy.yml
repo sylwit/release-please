@@ -1,0 +1,12 @@
+# deploy only on tags and release-please only on main branch
+on:
+  release:
+    types: [published]
+
+name: deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Deploying ${{ github.event.release.tag_name }}"
