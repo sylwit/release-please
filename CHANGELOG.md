@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/sylwit/release-please/compare/v1.2.0...v1.3.0) (2024-08-07)
+
+
+### Features
+
+* enable draft release ([29494d2](https://github.com/sylwit/release-please/commit/29494d2ae158fa8ae88106f1e01fd47e2908fbed))
+
 ## [1.2.0](https://github.com/sylwit/release-please/compare/v1.1.0...v1.2.0) (2024-08-07)
 
 
