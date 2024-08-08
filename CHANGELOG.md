@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/sylwit/release-please/compare/v1.3.0...v1.4.0) (2024-08-08)
+
+
+### Features
+
+* adding feature 3 ([c491126](https://github.com/sylwit/release-please/commit/c49112671450df62e29a65e9bfc65511189c161b))
+
+
+### Bug Fixes
+
+* fix 2 ([fc625bf](https://github.com/sylwit/release-please/commit/fc625bf9b1dc112304a0af23d9a0101e2262d3f9))
+
 ## [1.3.0](https://github.com/sylwit/release-please/compare/v1.2.0...v1.3.0) (2024-08-07)
 
 
