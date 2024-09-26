@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/sylwit/release-please/compare/v1.4.0...v1.5.0) (2024-09-26)
+
+
+### Features
+
+* create svc1 ([6e0454d](https://github.com/sylwit/release-please/commit/6e0454d4c5c64eb45f20579ffc4a0d5d1cd042dd))
+
 ## [1.4.0](https://github.com/sylwit/release-please/compare/v1.3.0...v1.4.0) (2024-08-08)
 
 
