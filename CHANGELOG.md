@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.0](https://github.com/sylwit/release-please/compare/v1.5.0...v1.6.0) (2024-09-26)
+
+
+### Features
+
+* 1 on svc1 ([ba72b36](https://github.com/sylwit/release-please/commit/ba72b361cbbb32e9ec6fbdfd8078f82297a6bdf8))
+* add components in RP manifest ([5dde997](https://github.com/sylwit/release-please/commit/5dde997e415d5c97b65a0c370caea8c1a9646806))
+* create svc2 ([810efa8](https://github.com/sylwit/release-please/commit/810efa8043ed7da172c1ed19fe3b8b69d774d2db))
+
 ## [1.5.0](https://github.com/sylwit/release-please/compare/v1.4.0...v1.5.0) (2024-09-26)
 
 
