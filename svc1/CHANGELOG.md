@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/sylwit/release-please/compare/v0.1.0...v0.2.0) (2024-09-27)
+
+
+### Features
+
+* **svc1:** 3rd feature ([5cac34c](https://github.com/sylwit/release-please/commit/5cac34c25ed72086844467f7b8de9b76bddd3324))
+
 ## [0.1.0](https://github.com/sylwit/release-please/compare/v0.0.1...v0.1.0) (2024-09-27)
 
 
