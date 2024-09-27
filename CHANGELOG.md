@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/sylwit/release-please/compare/v1.6.0...v1.7.0) (2024-09-27)
+
+
+### Features
+
+* **svc1:** create feature 2 ([6914acf](https://github.com/sylwit/release-please/commit/6914acffe84649bdd77bd64508367981ce1a8cc5))
+
 ## [1.6.0](https://github.com/sylwit/release-please/compare/v1.5.0...v1.6.0) (2024-09-26)
 
 
