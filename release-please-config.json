@@ -6,7 +6,7 @@
       "package-name": "svc1"
     },
     "svc2" : {
-      "package-name": "svc2"
+      "package-name": "svc2-with-dash"
     }
   },
   "changelog-sections" : [
