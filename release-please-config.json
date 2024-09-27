@@ -1,12 +1,11 @@
 {
   "$schema" : "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "simple",
-
+  "last-release-sha": "6d6055351b5856ccbe48c677b3bc8ae78473c114",
   "packages" : {
     "svc1" : {},
     "svc2" : {}
   },
-
   "changelog-sections" : [
     {
       "type" : "feat",
