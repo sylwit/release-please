@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.7.0](https://github.com/sylwit/release-please/compare/v1.6.0...v1.7.0) (2024-09-27)
+
+
+### Features
+
+* 1 for svc2 ([970ca1c](https://github.com/sylwit/release-please/commit/970ca1cf3b0f4578848ad9c67fd5c18c06dea05f))
+* **svc1:** create feature 2 ([6914acf](https://github.com/sylwit/release-please/commit/6914acffe84649bdd77bd64508367981ce1a8cc5))
+
+
+### Bug Fixes
+
+* 1 for svc1 ([08a559f](https://github.com/sylwit/release-please/commit/08a559f682be55447fb5c17a92b0834790660ace))
+* 2 for svc1 ([2df1e99](https://github.com/sylwit/release-please/commit/2df1e99fc6f0b45abb365bce1f6863d2ba37aec0))
+
 ## [1.6.0](https://github.com/sylwit/release-please/compare/v1.5.0...v1.6.0) (2024-09-26)
 
 
